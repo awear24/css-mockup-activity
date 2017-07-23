@@ -50,10 +50,4 @@ body { width: 100%;}
 	flex: 1 0 auto;
 }
 
-/*****************************************************
-* ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-******************************************************/
-
-header {
-	background-color: darkorange;
-}
+header {background-color: darkorange;}
