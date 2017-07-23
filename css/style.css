@@ -50,4 +50,10 @@ body { width: 100%;}
 	flex: 1 0 auto;
 }
 
-header {background-color: darkorange;}
+html {
+	font-family: sans-serif;
+}
+
+header {
+	background-color: darkorange;
+}
